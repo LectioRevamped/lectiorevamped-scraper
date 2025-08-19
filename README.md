@@ -16,9 +16,9 @@ A small tool that fetches the Lectio bundle source map and reconstructs the orig
 
 ## Run
 - With Bun:
-  - bun index.ts
+  - `bun index.ts`
 - With Node.js:
-  - npx tsx index.ts
+  - `npx tsx index.ts`
 
 ## Output
 - Files are written to: lectio_bundle_sources
