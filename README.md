@@ -11,7 +11,7 @@ A small tool that fetches the Lectio bundle source map and reconstructs the orig
 - Node.js 18+ with tsx (for running TypeScript directly)
 
 ## Install
-- Bun: bun install
+- Bun: `bun install`
 - npm/pnpm/yarn: install dependencies as usual (chalk)
 
 ## Run
